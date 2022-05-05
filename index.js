@@ -1,4 +1,4 @@
-const user = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'l'];
+const user = ['anke', 'bert', 'caro', 'dieter', 'ella', 'franz', 'gerd', 'hilde', 'inka', 'jonas', 'leo'];
 const auswahl = [];
 const doppelt = [];
 
