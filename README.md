@@ -1,6 +1,12 @@
 # Bonus Aufgabe
 
-Erstellt einen Array mit 10 Namen. Lasst euer Programm davon 5 Namen zufällig auswählen und speichert die zufällig ausgewählten Namen in einem neuen Array `auswahl`. Bevor ihr den Namen in dem Array `auswahl` speichert, überprüft ob der Name bereits darin vorhanden ist, ist der Name bereits vorhanden, speichert den Namen in einer weiteren Variablen mit dem Namen `doppelt` und nicht im Array `auswahl` - ist der Name nicht vorhanden speicehrt ihr den Namen im Array `auswahl`. Am Ende sortiert ihr alle drei Arrays alphabetisch.
+Erstellt einen Array mit 10 Namen. 
+- Lasst euer Programm davon 5 Namen zufällig auswählen und speichert die zufällig ausgewählten Namen in einem neuen Array `auswahl`.
+- Bevor ihr den Namen in dem Array `auswahl` speichert, überprüft ob der Name bereits darin vorhanden ist:
+    - ist der Name bereits vorhanden, speichert den Namen in einer weiteren Variablen mit dem Namen `doppelt` und nicht im Array `auswahl`
+    - ist der Name nicht vorhanden speichert ihr den Namen im Array `auswahl`
+- Zum Schluss sortiert ihr alle drei Arrays alphabetisch.
+
 Hinweis: *Ihr müsst keine Schleifen schreiben, ihr könnt auch alle Befehle hintereinander schreiben...*
 
 Am Ende habt ihr 3 alphabetisch sortierte Arrays:
