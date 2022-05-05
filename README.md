@@ -1,6 +1,6 @@
 # Bonus Aufgabe
 
-Erstellt einen Array mit 10 Namen. 
+Erstellt einen Array mit 10 Namen (Strings keine Objekte). 
 - Lasst euer Programm davon 5 Namen zufällig auswählen und speichert die zufällig ausgewählten Namen in einem neuen Array `auswahl`.
 - Bevor ihr den Namen in dem Array `auswahl` speichert, überprüft ob der Name bereits darin vorhanden ist:
     - ist der Name bereits vorhanden, speichert den Namen in einer weiteren Variablen mit dem Namen `doppelt` und nicht im Array `auswahl`
